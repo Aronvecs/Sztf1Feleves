@@ -1,0 +1,8 @@
+D:\szofver\JJGXSO\JJGXSO\bin\Debug\JJGXSO.exe.config
+D:\szofver\JJGXSO\JJGXSO\bin\Debug\JJGXSO.exe
+D:\szofver\JJGXSO\JJGXSO\bin\Debug\JJGXSO.pdb
+D:\szofver\JJGXSO\JJGXSO\obj\Debug\JJGXSO.csproj.AssemblyReference.cache
+D:\szofver\JJGXSO\JJGXSO\obj\Debug\JJGXSO.csproj.SuggestedBindingRedirects.cache
+D:\szofver\JJGXSO\JJGXSO\obj\Debug\JJGXSO.csproj.CoreCompileInputs.cache
+D:\szofver\JJGXSO\JJGXSO\obj\Debug\JJGXSO.exe
+D:\szofver\JJGXSO\JJGXSO\obj\Debug\JJGXSO.pdb
